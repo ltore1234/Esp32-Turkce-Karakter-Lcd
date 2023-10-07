@@ -18,6 +18,10 @@ void loop()
   lcd.print("BÜYÜK: İÜĞİŞÇÖ");
   lcd.setCursor(0,1);
   lcd.print("küçük: ıüğişçö");
+  lcd.setCursor(2,2);
+  lcd.print(("Flash Makrosuyla"));
+  lcd.setCursor(5,3);
+  lcd.print(("ıİöÖüÜğĞşŞ"));
   delay(1000);
   // Do nothing here...
 }
