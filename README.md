@@ -1,4 +1,5 @@
 # Installation #
+Dört satir lcd ile uyumludur 
 Kütüphanelerinizin bulunduğu "arduino/libraries" klasörüne bu kütüphaneyi klasör olarak ekleyin. Arduino IDE'yi yeniden başlatın ve örnekler arasında "Esp32_LiquidCrystalTr_I2C" olarak görünecek.
 
 Karakter LCD'nin özel karakterler belleğine türkçe karakterleri atayarak çalışır. Yani özel karakterlerin kullanımında kısıtlama olur. Türkçe karakter içeren metinleri özel bir şey yapmadan yazdırmaya olanak verir.
